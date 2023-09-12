@@ -13,3 +13,4 @@ Alors non
 okay
 
 Maxime est exclu du groupe il sait pas faire
+C'est la faute de Maxime
