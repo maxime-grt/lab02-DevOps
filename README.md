@@ -11,3 +11,5 @@ Si vous avez ouvert ce message c'est obligatoire
 >>>>>>> 731f9cfc45d1a117ea8e02c98ad56d167e31332a
 Alors non
 okay
+
+Maxime est exclu du groupe il sait pas faire
